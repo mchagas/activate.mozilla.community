@@ -6,6 +6,7 @@ lang: pt
 ref: index
 ---
 
+<<<<<<< HEAD
 {:action1: .col-md-4 .area}
 <img src="/asserts/img/icon-teach.svg" alt="teach" class="img-circle home-img">
 <span class="area-title">Ensine a Web</span>
@@ -32,3 +33,14 @@ ref: index
 
 {: .center .index-notice}
 _Você está interessado(a) em outras áreas? Veja [nosso roadmap](/pt/roadmap/) para ver o que está por vir_.
+=======
+{% include pt/activities.html %}
+
+{: .center .index-notice}
+_Você está interessado(a) em outras áreas ? Veja [nosso roadmap](/pt/roadmap/) para ver o que está por vir._
+
+{: .frontpage-slider}
+* <span>Share your experience with the hashtag #MozActivate</span>
+* <span>Check out our newest activitiy about <a href="/webextensions/">WebExtensions</a></span>
+* <span>Help create the future, have a look at <a href="/webvr-camp/">WebVR Camp</a></span>
+>>>>>>> 9ac6e4d8f7f2aabb05c14600b4dfc8fc4f6d68be
